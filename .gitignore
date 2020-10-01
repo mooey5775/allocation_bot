@@ -30,3 +30,7 @@ Temporary Items
 # Python caches
 __pycache__
 .ipynb_checkpoints
+
+# Secrets
+config.yaml
+run.sh
